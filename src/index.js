@@ -1,16 +1,13 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
+import ReactDOM from "react-dom"; // Use the older ReactDOM import
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-// Create root element for React 18+
-const root = ReactDOM.createRoot(document.getElementById("root"));
-
-root.render(
-
-    <App />
-
+// Render app using ReactDOM.render (for React 17)
+ReactDOM.render(
+  <App />,
+  document.getElementById("root")
 );
 
 // If you want to start measuring performance in your app, pass a function
