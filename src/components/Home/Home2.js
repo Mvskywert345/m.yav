@@ -33,7 +33,7 @@ function Home2() {
                 
                 and also in areas related to{" "}
                 <b className="pink">
-                  3D and Metaverse.
+                  Artificial Intelligence.
                 </b>
               </i>
               <br />
@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="pink"> React.js and Three.js</b>
+                <b className="pink"> React.js and Node.js</b>
               </i>
             </p>
           </Col>
