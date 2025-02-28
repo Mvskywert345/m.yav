@@ -28,7 +28,7 @@ function Projects() {
               title="Rock-Paper-Scissors"
               description="A real-time multiplayer Rock Paper Scissors game built with Html-5, Node.js, Socket.io, and WebSockets. It features a modern UI, smooth gameplay, and instant opponent matching for an interactive gaming experience."
               ghLink="https://github.com/Mvskywert345/Multi-Player-Game-client"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://rock-pape-scissor.vercel.app/"
                   className="bg-white shadow-lg rounded-xl p-6 transition-transform transform hover:scale-105"
 
             />
@@ -82,7 +82,7 @@ function Projects() {
               isBlog={false}
               title="Facial Recognition Music Recommender"
               description="A Python-based AI system that analyzes facial expressions and recommends music based on the detected mood. It uses computer vision to recognize emotions and suggests the perfect song to match the user's feelings, enhancing the listening experience."
-              ghLink=""
+              ghLink="https://github.com/Mvskywert345/Facial-Recognition-Music-Recommender"
               className="bg-white shadow-lg rounded-xl p-6 transition-transform transform hover:scale-105"
 
             />
