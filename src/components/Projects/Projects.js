@@ -39,7 +39,7 @@ function Projects() {
               imgPath={music}
               isBlog={false}
               title="Shadan-Music-Academy"
-              description="A modern website for Sadan Music Classes, designed to showcase courses, schedules, and student performances. Built with React and Tailwind CSS, offering a responsive and user-friendly experience."
+              description="A modern website for Sadan Music Classes, designed to showcase courses,  and get in touch page to directly connect with the classes for further infos. Built with React and Tailwind CSS, offering a responsive and user-friendly experience."
               ghLink="https://github.com/Mvskywert345/MusicClassWebsite"
               demoLink="https://shadanmusicacademy.netlify.app/"
               className="bg-white shadow-lg rounded-xl p-6 transition-transform transform hover:scale-105"
@@ -52,8 +52,8 @@ function Projects() {
               imgPath={eventt }
               isBlog={false}
               title="Roosevelt Events "
-              description="My personal Event Managment Website , 
-                           Roosevelt Events is a buitl platform for seamless planning and bookings. It offers a dynamic UI and efficient event handling for all occasions. 🚀   ."
+              description=" Event Managment Website , 
+                           Roosevelt Events is a buitl platform for seamless bookings offers direct connection for details and connection. It offers a dynamic UI and efficient event handling. 🚀   ."
               ghLink="https://github.com/Mvskywert345/Rooseveltevents"
               demoLink="https://rooseveltevents.netlify.app/"  
               className="bg-white shadow-lg rounded-xl p-6 transition-transform transform hover:scale-105"
@@ -66,7 +66,7 @@ function Projects() {
               imgPath={catnoir}
               isBlog={false}
               title="Asistant AI Cat_Noir"
-              description="An AI-powered voice assistant built using Python. It can perform tasks, answer queries, control system functions, and assist users through voice commands, making daily interactions more efficient and seamless.
+              description="An AI-powered voice assistant built using Python. It can perform tasks, answer queries, and assist users through voice commands, making daily interactions more efficient and seamless.
 
 "
               ghLink="https://github.com/Mvskywert345/Cat_Noir-personal-AI"
