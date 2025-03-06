@@ -110,7 +110,7 @@ function Home2() {
             <FaHackerrank />
             </a>
             </li>
-            <li className="social-icons">
+          /*  <li className="social-icons">
              <a
                 href="mailto:muskanyadav122003@gmail.com"
                 target="_blank"
@@ -119,7 +119,7 @@ function Home2() {
             >
             <SiGmail />
             </a>
-            </li>
+            </li>*/
            </ul>
           </Col>
         </Row>
