@@ -55,7 +55,7 @@ function Footer() {
               </a>
             </li>
             
-            <li className="social-icons">
+         /*   <li className="social-icons">
               <a
                 href="mailto:muskanyadav122003@gmail.com"
                 style={{ color: "white" }}
@@ -64,7 +64,7 @@ function Footer() {
               >
                 <AiFillMail />
               </a>
-            </li>
+            </li> */
           </ul>
         </Col>
       </Row>
