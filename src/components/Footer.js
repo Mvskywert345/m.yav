@@ -54,17 +54,6 @@ function Footer() {
                 <FaHackerrank />
               </a>
             </li>
-            
-         /*   <li className="social-icons">
-              <a
-                href="mailto:muskanyadav122003@gmail.com"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillMail />
-              </a>
-            </li> */
           </ul>
         </Col>
       </Row>
