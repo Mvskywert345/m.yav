@@ -109,16 +109,6 @@ function Home2() {
             <FaHackerrank />
             </a>
             </li>
-          /*  <li className="social-icons">
-             <a
-                href="mailto:muskanyadav122003@gmail.com"
-                target="_blank"
-             rel="noreferrer"
-             className="icon-colour home-social-icons"
-            >
-            <SiGmail />
-            </a>
-            </li>*/
            </ul>
           </Col>
         </Row>
