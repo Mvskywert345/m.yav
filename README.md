@@ -8,8 +8,8 @@ Welcome to my personal portfolio website! 🚀 This site showcases my projects, 
 ## 📌 Features  
 - 🖥️ **About Me** - Learn more about my journey in AI & Web Development.  
 - 💼 **Projects** - Showcasing my personal, client-based, and research projects.  
-- 📜 **Resume & Certifications** - Highlighting my academic and professional achievements.  
-- 📬 **Contact** - Reach out via email or social media.  
+- 📜 **Resume ** - Highlighting my academic and professional achievements.  
+- 📬 **Blog Page** - Reach out via email or social media.  
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React.js, Framer Motion, Tailwind CSS, Bootstrap  
