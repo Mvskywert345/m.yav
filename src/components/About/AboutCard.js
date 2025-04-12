@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="pink">Muskan Yadav </span> 
             from <span className="pink"> UttarPradesh, India.</span>
             <br />
-            A MERN Stack Developer Intern at MNNLR Pvt. Ltd.
+            A Software Developer.
             <br />
             I completed my BCA in 2024.
             <br />
